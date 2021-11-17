@@ -1,2 +1,2 @@
 # UpTask
-Trello like website, for managing and creating projects
+Trello like website, for managing and creating projects.
